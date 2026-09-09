@@ -1,0 +1,4 @@
+pandas>=2.0
+pyarrow>=14.0
+transformers>=4.40
+vllm>=0.6
